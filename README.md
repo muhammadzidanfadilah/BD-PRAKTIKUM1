@@ -81,6 +81,7 @@ ALTER TABLE siswa ADD CONSTRAINT PK_siswa PRIMARY KEY(email);
 ![gambar1](gambar/gambar14.png)
 
 - Pengertian dari int(11)
+
 int (11) nunjukkan bahwa kolom memiliki tipe data bilangan bulat (integer) dengan ukuran 11 digit 
 
 - Melihat struktur tabel dengan perintah desc dan ada kolom null berisi yes dan no apa itu?
