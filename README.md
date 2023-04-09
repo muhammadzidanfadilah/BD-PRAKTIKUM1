@@ -1,8 +1,8 @@
 # PRAKTIKUM 1
 
-# - Pertama tama kita membuat database latihan 1 seperti gambar di bawah ini
+# - Pertama tama kita membuat database latihan 2 seperti gambar di bawah ini
 
-![gambar1](gambar/gambar1.png)
+![gambar1](gambar/gambar15.jpg)
 
 # - Melihat basis data yang ada di my sql
 
